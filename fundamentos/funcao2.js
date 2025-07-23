@@ -15,3 +15,6 @@ console.log(soma(2, 3)); // 5
 // retorno implícito em uma função arrow
 const subtracao = (a, b) => a - b;
 console.log(subtracao(2, 3)); // -1
+
+const imprimir2 = a => console.log(a);
+imprimir2('Legal!!!'); // Legal!!!
