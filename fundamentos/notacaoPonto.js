@@ -1,4 +1,5 @@
-console.log(Math.ceil(6.1));
+console.log(Math.ceil(6.1)); // arredonda para cima
+
 
 const obj1 = {};
 obj1.nome = 'Bola';
