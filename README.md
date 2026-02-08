@@ -1,1 +1,1 @@
-# curso-web-moderno-udemy  1:43:15
+# curso-web-moderno-udemy  assisti até 2:23:41 bloco3
