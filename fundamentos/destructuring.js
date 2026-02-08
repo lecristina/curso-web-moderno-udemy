@@ -1,4 +1,6 @@
 // novo recurso do ES2015
+
+// a partir de um objeto, eu consigo extrair os dados dele e colocar em variáveis, isso é o destructuring
 const pessoa = {
     nome: 'Ana',
     idade: 5,
